@@ -4,3 +4,5 @@
 ![螢幕擷取畫面 2024-06-20 200012](https://github.com/lin274015/database-homework/assets/156421845/438aa979-6b83-4141-b644-239997f8a3b7)
 ![螢幕擷取畫面 2024-06-20 200359](https://github.com/lin274015/database-homework/assets/156421845/26255d77-e6b0-4a54-83fc-bcb38a1bc517)
 ![image](https://github.com/lin274015/database-homework/assets/156421845/3d6cec39-b815-45ea-9881-0aaa92e44374)
+![database er model ](https://github.com/lin274015/database-homework/assets/156421845/c4c039f9-9cea-46dc-834d-832f0fcd7b79)
+
